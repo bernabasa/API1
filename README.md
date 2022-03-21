@@ -1,6 +1,6 @@
 # API1
 
-#I'VE cloned my starter code
+I'VE cloned my starter code
 * Application loads with no errors.
 
 * Application GitHub URL submitted.
